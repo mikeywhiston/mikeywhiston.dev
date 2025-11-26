@@ -6,13 +6,10 @@ date: 2025-11-24 10:53 +00:00
 categories: [Introduction]
 tags: []
 pin: true
-# math: true
 ---
 
-## Headings
+<!-- ## Headings
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
 # H1 — heading
 {: .mt-4 .mb-0 }
 
@@ -24,7 +21,6 @@ pin: true
 
 #### H4 — heading
 {: data-toc-skip='' .mt-4 }
-<!-- markdownlint-restore -->
 
 ## Paragraph
 
@@ -65,8 +61,6 @@ Moon
 
 ## Prompts
 
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
 > An example showing the `tip` type prompt.
 {: .prompt-tip }
 
@@ -78,7 +72,6 @@ Moon
 
 > An example showing the `danger` type prompt.
 {: .prompt-danger }
-<!-- markdownlint-restore -->
 
 ## Tables
 
@@ -128,68 +121,37 @@ fi;
   "colors/light-typography",
   "colors/dark-typography";
 ```
-{: file='_sass/jekyll-theme-chirpy.scss'}
+{: file='_sass/jekyll-theme-chirpy.scss'} -->
 
-## Mathematics
-
-The mathematics powered by [**MathJax**](https://www.mathjax.org/):
-
-$$
-\begin{equation}
-  \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6}
-  \label{eq:series}
-\end{equation}
-$$
-
-We can reference the equation as \eqref{eq:series}.
-
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-## Mermaid SVG
-
-```mermaid
- gantt
-  title  Adding GANTT diagram functionality to mermaid
-  apple :a, 2017-07-20, 1w
-  banana :crit, b, 2017-07-23, 1d
-  cherry :active, c, after b a, 1d
-```
-
-## Images
-
-### Default (with caption)
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" }
-_Full screen width and center alignment_
-
-### Left aligned
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-75 .normal}
-
-### Float to left
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-50 .left}
-Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
-
-### Float to right
-
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-50 .right}
-Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
-
-### Dark/Light mode & Shadow
-
-The image below will toggle dark/light mode based on theme preference, notice it has shadows.
-
-![light mode only](/posts/20190808/devtools-light.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
-![dark mode only](/posts/20190808/devtools-dark.png){: .dark .w-75 .shadow .rounded-10 w='1212' h='668' }
-
-## Video
-
-{% include embed/youtube.html id='Balreaj8Yqs' %}
-
-## Reverse Footnote
+<!-- ## Reverse Footnote
 
 [^footnote]: The footnote source
-[^fn-nth-2]: The 2nd footnote source
+[^fn-nth-2]: The 2nd footnote source -->
+
+## mikeywhiston.dev
+Hey there!
+
+My name is Mikey Whiston, and I am a student security researcher with a focus on finding and responsibly reporting vulnerabilities to improve systems and ensure that systems are well-equipped against Cybersecurity threats.
+
+<img src="https://images.credly.com/size/340x340/images/57d88bab-75be-4400-a2fd-dbfa8e2b056e/image.png" width="10%" height="10%"> <img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" height="10%" width="10%"> <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="10%" height="10%">
+
+My certifications are the following:
+- Cisco Networking Academy: CyberOps Associate
+- Springpod: Virtual Work Experience with Drax Cybersecurity
+- Cisco Certified Support Technician (Networking)
+- National Centre for Computing Education: Knowledge in KS3 and GCSE Computer Science
+- Security Blue Team: Introduction to Threat Hunting
+- Security Blue Team: Introduction to Python
+- Security Blue Team: Introduction to Dark Web Investigations
+- Cisco Networking Academy: Introduction to Cybersecurity
+
+
+> In this blog, we will not be committing any illicit activity in alignment with the Computer Misuse Act of 2010, and other computing legislature. It is always advised to **[perform penetration testing in good-faith](https://github.com/ukncsc/Vulnerability-Disclosure/blob/master/UK-Government-Vulnerability-Disclosure-Policy.md#guidance)** and to always report vulnerabilities to the relevant organisations.
+{: .prompt-warning }
+
+In this blog, we will be covering:
+- my vulnerability discoveries and walking through my thought process in identifying security exploits;
+- my progress in enhancing my knowledge within cybersecurity;
+- what I learn from studying for cybersecurity certifications;
+- how cybersecurity skills can be applied for the greater good;
+
