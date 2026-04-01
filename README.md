@@ -1,5 +1,5 @@
 # mikeywhiston.dev
-### This blog theme is made with the Chirpy Jekyll theme.
+### This blog is made with the Chirpy Jekyll theme.
 
 This blog aims to document my progress within Cybersecurity - by researching, identifying and reporting relevant security vulnerabilities in order to help in the push against cybercrime and criminal exploitation of vulnerabilities in services.
 
