@@ -4,7 +4,7 @@ order: 5
 ---
 
 # Support Guidance
-If you require support regarding the **Sentinel Eligibility Checker**, email `mikey@mikeywhiston.dev` with your enquiry. The **Sentinel eligibility checker** does not process or collect any personal data.
+If you require support regarding the **Sentinel Eligibility Checker**, email `mikey@mikeywhiston.dev` with your enquiry. The **Sentinel Eligibility Checker** does not process or collect any personal data.
 
 # Privacy Policy
 
