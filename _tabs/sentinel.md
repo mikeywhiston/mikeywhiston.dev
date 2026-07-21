@@ -75,7 +75,7 @@ This Privacy Policy may be updated periodically to reflect changes to the App or
 If you have questions about this Privacy Policy, please contact:
 
 **Sentinel Eligibility Checker**  
-Email: your-email@example.com
+Email:  mikey@mikeywhiston.dev
 
 ---
 
